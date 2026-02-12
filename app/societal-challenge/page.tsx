@@ -5,7 +5,7 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Video, Users, AlertCircle, Lightbulb } from 'lucide-react';
 
 export default function SocietalChallengePage() {
-  const videoEmbedUrl = 'https://drive.google.com/file/d/1v9aZT1f7eQLSXFlqkwxGMnhkmp91zm4h/view?usp=sharing';
+  const videoEmbedUrl = 'https://youtu.be/n6zFKqEe9Iw?si=fhO8ZpO1IZfQk0WT';
 
   return (
     <div className="min-h-screen bg-slate-50 py-12">
