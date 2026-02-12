@@ -5,7 +5,7 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Download, Video, Presentation, Globe } from 'lucide-react';
 
 export default function AfricanCulturePage() {
-  const videoEmbedUrl = 'https://drive.google.com/file/d/11wICLC3vVm7h2njGmVmgm4QC-Y4hIVsV/view?usp=sharing';
+  const videoEmbedUrl = 'https://youtu.be/tbNCsmTairE?si=cs9vx3o3AmLSjLhw';
   const presentationEmbedUrl = 'https://docs.google.com/presentation/d/1TVQeaLA6FDYe0jBETCfNwexJn8sT2Tke/edit?usp=sharing&ouid=113103323744425993737&rtpof=true&sd=true';
   const presentationDownloadUrl = 'https://docs.google.com/presentation/d/1TVQeaLA6FDYe0jBETCfNwexJn8sT2Tke/export?format=pptx';
 
