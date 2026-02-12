@@ -5,7 +5,7 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Download, Video, Presentation, Lightbulb } from 'lucide-react';
 
 export default function InnovationPage() {
-  const videoEmbedUrl = 'https://drive.google.com/file/d/1r0ikXcYUDUuSGNVaGWfFYtvoZ1MAZ9It/view?usp=sharing';
+  const videoEmbedUrl = 'https://youtu.be/OwUOvTW1aEY?si=aVzBt8jG4qJ1GLkR';
   const presentationEmbedUrl = 'https://docs.google.com/presentation/d/1Y771K9sEyPRei65cYeHVg1yo2Tz-kaIL/edit?usp=sharing&ouid=113103323744425993737&rtpof=true&sd=true';
   const presentationDownloadUrl = 'https://docs.google.com/presentation/d/1Y771K9sEyPRei65cYeHVg1yo2Tz-kaIL/export?format=pptx';
 
